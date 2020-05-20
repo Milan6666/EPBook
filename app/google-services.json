@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "856669039748",
+    "firebase_url": "https://e-pbook.firebaseio.com",
+    "project_id": "e-pbook",
+    "storage_bucket": "e-pbook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856669039748:android:530801c4af3d4fd85e26d1",
+        "android_client_info": {
+          "package_name": "com.herald.e_pbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856669039748-2tn3e5udnl3nmjri9dbomkl0he59fasu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg_XjgywTSN5WwoaZGNYrRfhPG2CG7cb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856669039748-2tn3e5udnl3nmjri9dbomkl0he59fasu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856669039748:android:b355780ad040372d5e26d1",
+        "android_client_info": {
+          "package_name": "np.edu.e_pbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856669039748-2tn3e5udnl3nmjri9dbomkl0he59fasu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg_XjgywTSN5WwoaZGNYrRfhPG2CG7cb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856669039748-2tn3e5udnl3nmjri9dbomkl0he59fasu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
